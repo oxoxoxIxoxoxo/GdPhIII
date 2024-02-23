@@ -25,4 +25,4 @@ dicA = {
 while dicA:
     frage(dicA)
 
-print("Sie beherrschen die Bestimmung aus der Gasgleichung!")
+print("Sie beherrschen die Bestimmung der Gaskonstante aus der Gasgleichung!")
