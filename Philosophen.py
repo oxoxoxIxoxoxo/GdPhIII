@@ -48,4 +48,4 @@ dicA = {
 while dicA:
     frage(dicA)
 
-print("Sie beherrschen den Abriss der historischen Entwicklung!")
+print("Sie kennen alle Philosophen!")
